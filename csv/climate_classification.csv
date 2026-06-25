@@ -1,0 +1,10 @@
+STATE,REP_STATION,ANN_AVG_TEMP_F,SUMMER_AVG_MAX_F,SUMMER_RH_PCT,COOLING_DEGREE_DAYS,CLIMATE_ZONE,CLIMATE_NOTE,LAT,LON
+Alabama,"Birmingham, AL",64.0,90.2,72,2641,Hot-Humid,Avg summer high 90.2°F | 72% humidity | 2641 cooling degree days/yr,32.806671,-86.79113
+Arkansas,"Little Rock, AR",62.9,92.4,70,2727,Hot-Humid,Avg summer high 92.4°F | 70% humidity | 2727 cooling degree days/yr,34.969704,-92.373123
+Florida,"Orlando, FL",73.0,91.8,75,4132,Hot-Humid,Avg summer high 91.8°F | 75% humidity | 4132 cooling degree days/yr,27.766279,-81.686783
+Georgia,"Atlanta, GA",62.0,89.1,69,1995,Hot-Humid,Avg summer high 89.1°F | 69% humidity | 1995 cooling degree days/yr,32.840695,-83.441162
+Louisiana,"New Orleans, LA",69.0,91.5,78,2902,Hot-Humid,Avg summer high 91.5°F | 78% humidity | 2902 cooling degree days/yr,31.16996,-91.867805
+Mississippi,"Jackson, MS",65.5,91.7,73,2597,Hot-Humid,Avg summer high 91.7°F | 73% humidity | 2597 cooling degree days/yr,32.741646,-89.678696
+North Carolina,"Raleigh, NC",60.0,88.5,68,1624,Hot-Humid,Avg summer high 88.5°F | 68% humidity | 1624 cooling degree days/yr,35.630066,-79.806419
+South Carolina,"Columbia, SC",64.5,92.3,70,2418,Hot-Humid,Avg summer high 92.3°F | 70% humidity | 2418 cooling degree days/yr,33.856892,-80.945007
+Tennessee,"Nashville, TN",59.4,89.6,68,1652,Hot-Humid,Avg summer high 89.6°F | 68% humidity | 1652 cooling degree days/yr,35.747845,-86.692345

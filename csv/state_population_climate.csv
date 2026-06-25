@@ -1,0 +1,196 @@
+STATE,STATEFP,YEAR,AC_ERA,STATE_POPULATION,POP_1950,PCT_CHANGE_FROM_1950,REP_STATION,ANN_AVG_TEMP_F,SUMMER_AVG_MAX_F,SUMMER_RH_PCT,COOLING_DEGREE_DAYS,CLIMATE_ZONE,CLIMATE_NOTE
+Alabama,1.0,1820,Pre-AC,144317,3061743,-95.29,"Birmingham, AL",64.0,90.2,72,2641,Hot-Humid,Avg summer high 90.2°F | 72% humidity | 2641 cooling degree days/yr
+Alabama,1.0,1830,Pre-AC,309527,3061743,-89.89,"Birmingham, AL",64.0,90.2,72,2641,Hot-Humid,Avg summer high 90.2°F | 72% humidity | 2641 cooling degree days/yr
+Alabama,1.0,1840,Pre-AC,590756,3061743,-80.71,"Birmingham, AL",64.0,90.2,72,2641,Hot-Humid,Avg summer high 90.2°F | 72% humidity | 2641 cooling degree days/yr
+Alabama,1.0,1850,Pre-AC,771623,3061743,-74.8,"Birmingham, AL",64.0,90.2,72,2641,Hot-Humid,Avg summer high 90.2°F | 72% humidity | 2641 cooling degree days/yr
+Alabama,1.0,1860,Pre-AC,964201,3061743,-68.51,"Birmingham, AL",64.0,90.2,72,2641,Hot-Humid,Avg summer high 90.2°F | 72% humidity | 2641 cooling degree days/yr
+Alabama,1.0,1870,Pre-AC,996992,3061743,-67.44,"Birmingham, AL",64.0,90.2,72,2641,Hot-Humid,Avg summer high 90.2°F | 72% humidity | 2641 cooling degree days/yr
+Alabama,1.0,1880,Pre-AC,1262505,3061743,-58.77,"Birmingham, AL",64.0,90.2,72,2641,Hot-Humid,Avg summer high 90.2°F | 72% humidity | 2641 cooling degree days/yr
+Alabama,1.0,1890,Pre-AC,1513017,3061743,-50.58,"Birmingham, AL",64.0,90.2,72,2641,Hot-Humid,Avg summer high 90.2°F | 72% humidity | 2641 cooling degree days/yr
+Alabama,1.0,1900,Pre-AC,1828697,3061743,-40.27,"Birmingham, AL",64.0,90.2,72,2641,Hot-Humid,Avg summer high 90.2°F | 72% humidity | 2641 cooling degree days/yr
+Alabama,1.0,1910,Pre-AC,2138093,3061743,-30.17,"Birmingham, AL",64.0,90.2,72,2641,Hot-Humid,Avg summer high 90.2°F | 72% humidity | 2641 cooling degree days/yr
+Alabama,1.0,1920,Pre-AC,2348174,3061743,-23.31,"Birmingham, AL",64.0,90.2,72,2641,Hot-Humid,Avg summer high 90.2°F | 72% humidity | 2641 cooling degree days/yr
+Alabama,1.0,1930,Pre-AC,2646248,3061743,-13.57,"Birmingham, AL",64.0,90.2,72,2641,Hot-Humid,Avg summer high 90.2°F | 72% humidity | 2641 cooling degree days/yr
+Alabama,1.0,1940,Pre-AC,2832961,3061743,-7.47,"Birmingham, AL",64.0,90.2,72,2641,Hot-Humid,Avg summer high 90.2°F | 72% humidity | 2641 cooling degree days/yr
+Alabama,1.0,1950,Early AC,3061743,3061743,0.0,"Birmingham, AL",64.0,90.2,72,2641,Hot-Humid,Avg summer high 90.2°F | 72% humidity | 2641 cooling degree days/yr
+Alabama,1.0,1960,Early AC,3266740,3061743,6.7,"Birmingham, AL",64.0,90.2,72,2641,Hot-Humid,Avg summer high 90.2°F | 72% humidity | 2641 cooling degree days/yr
+Alabama,1.0,1970,AC Era,3444165,3061743,12.49,"Birmingham, AL",64.0,90.2,72,2641,Hot-Humid,Avg summer high 90.2°F | 72% humidity | 2641 cooling degree days/yr
+Alabama,1.0,1980,AC Era,3893888,3061743,27.18,"Birmingham, AL",64.0,90.2,72,2641,Hot-Humid,Avg summer high 90.2°F | 72% humidity | 2641 cooling degree days/yr
+Alabama,1.0,1990,AC Era,4040587,3061743,31.97,"Birmingham, AL",64.0,90.2,72,2641,Hot-Humid,Avg summer high 90.2°F | 72% humidity | 2641 cooling degree days/yr
+Alabama,1.0,2000,AC Era,4447100,3061743,45.25,"Birmingham, AL",64.0,90.2,72,2641,Hot-Humid,Avg summer high 90.2°F | 72% humidity | 2641 cooling degree days/yr
+Alabama,1.0,2010,AC Era,4779736,3061743,56.11,"Birmingham, AL",64.0,90.2,72,2641,Hot-Humid,Avg summer high 90.2°F | 72% humidity | 2641 cooling degree days/yr
+Alabama,1.0,2020,AC Era,5024279,3061743,64.1,"Birmingham, AL",64.0,90.2,72,2641,Hot-Humid,Avg summer high 90.2°F | 72% humidity | 2641 cooling degree days/yr
+Arkansas,5.0,1840,Pre-AC,97574,1909511,-94.89,"Little Rock, AR",62.9,92.4,70,2727,Hot-Humid,Avg summer high 92.4°F | 70% humidity | 2727 cooling degree days/yr
+Arkansas,5.0,1850,Pre-AC,209897,1909511,-89.01,"Little Rock, AR",62.9,92.4,70,2727,Hot-Humid,Avg summer high 92.4°F | 70% humidity | 2727 cooling degree days/yr
+Arkansas,5.0,1860,Pre-AC,435450,1909511,-77.2,"Little Rock, AR",62.9,92.4,70,2727,Hot-Humid,Avg summer high 92.4°F | 70% humidity | 2727 cooling degree days/yr
+Arkansas,5.0,1870,Pre-AC,484471,1909511,-74.63,"Little Rock, AR",62.9,92.4,70,2727,Hot-Humid,Avg summer high 92.4°F | 70% humidity | 2727 cooling degree days/yr
+Arkansas,5.0,1880,Pre-AC,802525,1909511,-57.97,"Little Rock, AR",62.9,92.4,70,2727,Hot-Humid,Avg summer high 92.4°F | 70% humidity | 2727 cooling degree days/yr
+Arkansas,5.0,1890,Pre-AC,1128179,1909511,-40.92,"Little Rock, AR",62.9,92.4,70,2727,Hot-Humid,Avg summer high 92.4°F | 70% humidity | 2727 cooling degree days/yr
+Arkansas,5.0,1900,Pre-AC,1311564,1909511,-31.31,"Little Rock, AR",62.9,92.4,70,2727,Hot-Humid,Avg summer high 92.4°F | 70% humidity | 2727 cooling degree days/yr
+Arkansas,5.0,1910,Pre-AC,1574449,1909511,-17.55,"Little Rock, AR",62.9,92.4,70,2727,Hot-Humid,Avg summer high 92.4°F | 70% humidity | 2727 cooling degree days/yr
+Arkansas,5.0,1920,Pre-AC,1752204,1909511,-8.24,"Little Rock, AR",62.9,92.4,70,2727,Hot-Humid,Avg summer high 92.4°F | 70% humidity | 2727 cooling degree days/yr
+Arkansas,5.0,1930,Pre-AC,1854482,1909511,-2.88,"Little Rock, AR",62.9,92.4,70,2727,Hot-Humid,Avg summer high 92.4°F | 70% humidity | 2727 cooling degree days/yr
+Arkansas,5.0,1940,Pre-AC,1949387,1909511,2.09,"Little Rock, AR",62.9,92.4,70,2727,Hot-Humid,Avg summer high 92.4°F | 70% humidity | 2727 cooling degree days/yr
+Arkansas,5.0,1950,Early AC,1909511,1909511,0.0,"Little Rock, AR",62.9,92.4,70,2727,Hot-Humid,Avg summer high 92.4°F | 70% humidity | 2727 cooling degree days/yr
+Arkansas,5.0,1960,Early AC,1786272,1909511,-6.45,"Little Rock, AR",62.9,92.4,70,2727,Hot-Humid,Avg summer high 92.4°F | 70% humidity | 2727 cooling degree days/yr
+Arkansas,5.0,1970,AC Era,1923295,1909511,0.72,"Little Rock, AR",62.9,92.4,70,2727,Hot-Humid,Avg summer high 92.4°F | 70% humidity | 2727 cooling degree days/yr
+Arkansas,5.0,1980,AC Era,2286435,1909511,19.74,"Little Rock, AR",62.9,92.4,70,2727,Hot-Humid,Avg summer high 92.4°F | 70% humidity | 2727 cooling degree days/yr
+Arkansas,5.0,1990,AC Era,2350725,1909511,23.11,"Little Rock, AR",62.9,92.4,70,2727,Hot-Humid,Avg summer high 92.4°F | 70% humidity | 2727 cooling degree days/yr
+Arkansas,5.0,2000,AC Era,2673400,1909511,40.0,"Little Rock, AR",62.9,92.4,70,2727,Hot-Humid,Avg summer high 92.4°F | 70% humidity | 2727 cooling degree days/yr
+Arkansas,5.0,2010,AC Era,2915918,1909511,52.7,"Little Rock, AR",62.9,92.4,70,2727,Hot-Humid,Avg summer high 92.4°F | 70% humidity | 2727 cooling degree days/yr
+Arkansas,5.0,2020,AC Era,3011524,1909511,57.71,"Little Rock, AR",62.9,92.4,70,2727,Hot-Humid,Avg summer high 92.4°F | 70% humidity | 2727 cooling degree days/yr
+Florida,12.0,1850,Pre-AC,87445,2771305,-96.84,"Orlando, FL",73.0,91.8,75,4132,Hot-Humid,Avg summer high 91.8°F | 75% humidity | 4132 cooling degree days/yr
+Florida,12.0,1860,Pre-AC,140424,2771305,-94.93,"Orlando, FL",73.0,91.8,75,4132,Hot-Humid,Avg summer high 91.8°F | 75% humidity | 4132 cooling degree days/yr
+Florida,12.0,1870,Pre-AC,187748,2771305,-93.23,"Orlando, FL",73.0,91.8,75,4132,Hot-Humid,Avg summer high 91.8°F | 75% humidity | 4132 cooling degree days/yr
+Florida,12.0,1880,Pre-AC,269493,2771305,-90.28,"Orlando, FL",73.0,91.8,75,4132,Hot-Humid,Avg summer high 91.8°F | 75% humidity | 4132 cooling degree days/yr
+Florida,12.0,1890,Pre-AC,391422,2771305,-85.88,"Orlando, FL",73.0,91.8,75,4132,Hot-Humid,Avg summer high 91.8°F | 75% humidity | 4132 cooling degree days/yr
+Florida,12.0,1900,Pre-AC,528542,2771305,-80.93,"Orlando, FL",73.0,91.8,75,4132,Hot-Humid,Avg summer high 91.8°F | 75% humidity | 4132 cooling degree days/yr
+Florida,12.0,1910,Pre-AC,752619,2771305,-72.84,"Orlando, FL",73.0,91.8,75,4132,Hot-Humid,Avg summer high 91.8°F | 75% humidity | 4132 cooling degree days/yr
+Florida,12.0,1920,Pre-AC,968470,2771305,-65.05,"Orlando, FL",73.0,91.8,75,4132,Hot-Humid,Avg summer high 91.8°F | 75% humidity | 4132 cooling degree days/yr
+Florida,12.0,1930,Pre-AC,1468211,2771305,-47.02,"Orlando, FL",73.0,91.8,75,4132,Hot-Humid,Avg summer high 91.8°F | 75% humidity | 4132 cooling degree days/yr
+Florida,12.0,1940,Pre-AC,1897414,2771305,-31.53,"Orlando, FL",73.0,91.8,75,4132,Hot-Humid,Avg summer high 91.8°F | 75% humidity | 4132 cooling degree days/yr
+Florida,12.0,1950,Early AC,2771305,2771305,0.0,"Orlando, FL",73.0,91.8,75,4132,Hot-Humid,Avg summer high 91.8°F | 75% humidity | 4132 cooling degree days/yr
+Florida,12.0,1960,Early AC,4951560,2771305,78.67,"Orlando, FL",73.0,91.8,75,4132,Hot-Humid,Avg summer high 91.8°F | 75% humidity | 4132 cooling degree days/yr
+Florida,12.0,1970,AC Era,6789443,2771305,144.99,"Orlando, FL",73.0,91.8,75,4132,Hot-Humid,Avg summer high 91.8°F | 75% humidity | 4132 cooling degree days/yr
+Florida,12.0,1980,AC Era,9746324,2771305,251.69,"Orlando, FL",73.0,91.8,75,4132,Hot-Humid,Avg summer high 91.8°F | 75% humidity | 4132 cooling degree days/yr
+Florida,12.0,1990,AC Era,12937926,2771305,366.85,"Orlando, FL",73.0,91.8,75,4132,Hot-Humid,Avg summer high 91.8°F | 75% humidity | 4132 cooling degree days/yr
+Florida,12.0,2000,AC Era,15982378,2771305,476.71,"Orlando, FL",73.0,91.8,75,4132,Hot-Humid,Avg summer high 91.8°F | 75% humidity | 4132 cooling degree days/yr
+Florida,12.0,2010,AC Era,18801310,2771305,578.43,"Orlando, FL",73.0,91.8,75,4132,Hot-Humid,Avg summer high 91.8°F | 75% humidity | 4132 cooling degree days/yr
+Florida,12.0,2020,AC Era,21538187,2771305,677.19,"Orlando, FL",73.0,91.8,75,4132,Hot-Humid,Avg summer high 91.8°F | 75% humidity | 4132 cooling degree days/yr
+Georgia,13.0,1790,Pre-AC,82548,3444578,-97.6,"Atlanta, GA",62.0,89.1,69,1995,Hot-Humid,Avg summer high 89.1°F | 69% humidity | 1995 cooling degree days/yr
+Georgia,13.0,1800,Pre-AC,162686,3444578,-95.28,"Atlanta, GA",62.0,89.1,69,1995,Hot-Humid,Avg summer high 89.1°F | 69% humidity | 1995 cooling degree days/yr
+Georgia,13.0,1810,Pre-AC,252433,3444578,-92.67,"Atlanta, GA",62.0,89.1,69,1995,Hot-Humid,Avg summer high 89.1°F | 69% humidity | 1995 cooling degree days/yr
+Georgia,13.0,1820,Pre-AC,340989,3444578,-90.1,"Atlanta, GA",62.0,89.1,69,1995,Hot-Humid,Avg summer high 89.1°F | 69% humidity | 1995 cooling degree days/yr
+Georgia,13.0,1830,Pre-AC,516823,3444578,-85.0,"Atlanta, GA",62.0,89.1,69,1995,Hot-Humid,Avg summer high 89.1°F | 69% humidity | 1995 cooling degree days/yr
+Georgia,13.0,1840,Pre-AC,691392,3444578,-79.93,"Atlanta, GA",62.0,89.1,69,1995,Hot-Humid,Avg summer high 89.1°F | 69% humidity | 1995 cooling degree days/yr
+Georgia,13.0,1850,Pre-AC,906185,3444578,-73.69,"Atlanta, GA",62.0,89.1,69,1995,Hot-Humid,Avg summer high 89.1°F | 69% humidity | 1995 cooling degree days/yr
+Georgia,13.0,1860,Pre-AC,1057286,3444578,-69.31,"Atlanta, GA",62.0,89.1,69,1995,Hot-Humid,Avg summer high 89.1°F | 69% humidity | 1995 cooling degree days/yr
+Georgia,13.0,1870,Pre-AC,1184109,3444578,-65.62,"Atlanta, GA",62.0,89.1,69,1995,Hot-Humid,Avg summer high 89.1°F | 69% humidity | 1995 cooling degree days/yr
+Georgia,13.0,1880,Pre-AC,1542180,3444578,-55.23,"Atlanta, GA",62.0,89.1,69,1995,Hot-Humid,Avg summer high 89.1°F | 69% humidity | 1995 cooling degree days/yr
+Georgia,13.0,1890,Pre-AC,1837353,3444578,-46.66,"Atlanta, GA",62.0,89.1,69,1995,Hot-Humid,Avg summer high 89.1°F | 69% humidity | 1995 cooling degree days/yr
+Georgia,13.0,1900,Pre-AC,2216331,3444578,-35.66,"Atlanta, GA",62.0,89.1,69,1995,Hot-Humid,Avg summer high 89.1°F | 69% humidity | 1995 cooling degree days/yr
+Georgia,13.0,1910,Pre-AC,2609121,3444578,-24.25,"Atlanta, GA",62.0,89.1,69,1995,Hot-Humid,Avg summer high 89.1°F | 69% humidity | 1995 cooling degree days/yr
+Georgia,13.0,1920,Pre-AC,2895832,3444578,-15.93,"Atlanta, GA",62.0,89.1,69,1995,Hot-Humid,Avg summer high 89.1°F | 69% humidity | 1995 cooling degree days/yr
+Georgia,13.0,1930,Pre-AC,2908506,3444578,-15.56,"Atlanta, GA",62.0,89.1,69,1995,Hot-Humid,Avg summer high 89.1°F | 69% humidity | 1995 cooling degree days/yr
+Georgia,13.0,1940,Pre-AC,3123723,3444578,-9.31,"Atlanta, GA",62.0,89.1,69,1995,Hot-Humid,Avg summer high 89.1°F | 69% humidity | 1995 cooling degree days/yr
+Georgia,13.0,1950,Early AC,3444578,3444578,0.0,"Atlanta, GA",62.0,89.1,69,1995,Hot-Humid,Avg summer high 89.1°F | 69% humidity | 1995 cooling degree days/yr
+Georgia,13.0,1960,Early AC,3943116,3444578,14.47,"Atlanta, GA",62.0,89.1,69,1995,Hot-Humid,Avg summer high 89.1°F | 69% humidity | 1995 cooling degree days/yr
+Georgia,13.0,1970,AC Era,4589575,3444578,33.24,"Atlanta, GA",62.0,89.1,69,1995,Hot-Humid,Avg summer high 89.1°F | 69% humidity | 1995 cooling degree days/yr
+Georgia,13.0,1980,AC Era,5463105,3444578,58.6,"Atlanta, GA",62.0,89.1,69,1995,Hot-Humid,Avg summer high 89.1°F | 69% humidity | 1995 cooling degree days/yr
+Georgia,13.0,1990,AC Era,6478216,3444578,88.07,"Atlanta, GA",62.0,89.1,69,1995,Hot-Humid,Avg summer high 89.1°F | 69% humidity | 1995 cooling degree days/yr
+Georgia,13.0,2000,AC Era,8186453,3444578,137.66,"Atlanta, GA",62.0,89.1,69,1995,Hot-Humid,Avg summer high 89.1°F | 69% humidity | 1995 cooling degree days/yr
+Georgia,13.0,2010,AC Era,9687653,3444578,181.24,"Atlanta, GA",62.0,89.1,69,1995,Hot-Humid,Avg summer high 89.1°F | 69% humidity | 1995 cooling degree days/yr
+Georgia,13.0,2020,AC Era,10711908,3444578,210.98,"Atlanta, GA",62.0,89.1,69,1995,Hot-Humid,Avg summer high 89.1°F | 69% humidity | 1995 cooling degree days/yr
+Louisiana,22.0,1820,Pre-AC,153407,2683516,-94.28,"New Orleans, LA",69.0,91.5,78,2902,Hot-Humid,Avg summer high 91.5°F | 78% humidity | 2902 cooling degree days/yr
+Louisiana,22.0,1830,Pre-AC,215529,2683516,-91.97,"New Orleans, LA",69.0,91.5,78,2902,Hot-Humid,Avg summer high 91.5°F | 78% humidity | 2902 cooling degree days/yr
+Louisiana,22.0,1840,Pre-AC,352411,2683516,-86.87,"New Orleans, LA",69.0,91.5,78,2902,Hot-Humid,Avg summer high 91.5°F | 78% humidity | 2902 cooling degree days/yr
+Louisiana,22.0,1850,Pre-AC,517762,2683516,-80.71,"New Orleans, LA",69.0,91.5,78,2902,Hot-Humid,Avg summer high 91.5°F | 78% humidity | 2902 cooling degree days/yr
+Louisiana,22.0,1860,Pre-AC,708002,2683516,-73.62,"New Orleans, LA",69.0,91.5,78,2902,Hot-Humid,Avg summer high 91.5°F | 78% humidity | 2902 cooling degree days/yr
+Louisiana,22.0,1870,Pre-AC,726915,2683516,-72.91,"New Orleans, LA",69.0,91.5,78,2902,Hot-Humid,Avg summer high 91.5°F | 78% humidity | 2902 cooling degree days/yr
+Louisiana,22.0,1880,Pre-AC,939946,2683516,-64.97,"New Orleans, LA",69.0,91.5,78,2902,Hot-Humid,Avg summer high 91.5°F | 78% humidity | 2902 cooling degree days/yr
+Louisiana,22.0,1890,Pre-AC,1118587,2683516,-58.32,"New Orleans, LA",69.0,91.5,78,2902,Hot-Humid,Avg summer high 91.5°F | 78% humidity | 2902 cooling degree days/yr
+Louisiana,22.0,1900,Pre-AC,1381625,2683516,-48.51,"New Orleans, LA",69.0,91.5,78,2902,Hot-Humid,Avg summer high 91.5°F | 78% humidity | 2902 cooling degree days/yr
+Louisiana,22.0,1910,Pre-AC,1656388,2683516,-38.28,"New Orleans, LA",69.0,91.5,78,2902,Hot-Humid,Avg summer high 91.5°F | 78% humidity | 2902 cooling degree days/yr
+Louisiana,22.0,1920,Pre-AC,1798509,2683516,-32.98,"New Orleans, LA",69.0,91.5,78,2902,Hot-Humid,Avg summer high 91.5°F | 78% humidity | 2902 cooling degree days/yr
+Louisiana,22.0,1930,Pre-AC,2101593,2683516,-21.69,"New Orleans, LA",69.0,91.5,78,2902,Hot-Humid,Avg summer high 91.5°F | 78% humidity | 2902 cooling degree days/yr
+Louisiana,22.0,1940,Pre-AC,2363880,2683516,-11.91,"New Orleans, LA",69.0,91.5,78,2902,Hot-Humid,Avg summer high 91.5°F | 78% humidity | 2902 cooling degree days/yr
+Louisiana,22.0,1950,Early AC,2683516,2683516,0.0,"New Orleans, LA",69.0,91.5,78,2902,Hot-Humid,Avg summer high 91.5°F | 78% humidity | 2902 cooling degree days/yr
+Louisiana,22.0,1960,Early AC,3257022,2683516,21.37,"New Orleans, LA",69.0,91.5,78,2902,Hot-Humid,Avg summer high 91.5°F | 78% humidity | 2902 cooling degree days/yr
+Louisiana,22.0,1970,AC Era,3641306,2683516,35.69,"New Orleans, LA",69.0,91.5,78,2902,Hot-Humid,Avg summer high 91.5°F | 78% humidity | 2902 cooling degree days/yr
+Louisiana,22.0,1980,AC Era,4205900,2683516,56.73,"New Orleans, LA",69.0,91.5,78,2902,Hot-Humid,Avg summer high 91.5°F | 78% humidity | 2902 cooling degree days/yr
+Louisiana,22.0,1990,AC Era,4219973,2683516,57.26,"New Orleans, LA",69.0,91.5,78,2902,Hot-Humid,Avg summer high 91.5°F | 78% humidity | 2902 cooling degree days/yr
+Louisiana,22.0,2000,AC Era,4468976,2683516,66.53,"New Orleans, LA",69.0,91.5,78,2902,Hot-Humid,Avg summer high 91.5°F | 78% humidity | 2902 cooling degree days/yr
+Louisiana,22.0,2010,AC Era,4533372,2683516,68.93,"New Orleans, LA",69.0,91.5,78,2902,Hot-Humid,Avg summer high 91.5°F | 78% humidity | 2902 cooling degree days/yr
+Louisiana,22.0,2020,AC Era,4657757,2683516,73.57,"New Orleans, LA",69.0,91.5,78,2902,Hot-Humid,Avg summer high 91.5°F | 78% humidity | 2902 cooling degree days/yr
+Mississippi,28.0,1820,Pre-AC,75448,2178914,-96.54,"Jackson, MS",65.5,91.7,73,2597,Hot-Humid,Avg summer high 91.7°F | 73% humidity | 2597 cooling degree days/yr
+Mississippi,28.0,1830,Pre-AC,136621,2178914,-93.73,"Jackson, MS",65.5,91.7,73,2597,Hot-Humid,Avg summer high 91.7°F | 73% humidity | 2597 cooling degree days/yr
+Mississippi,28.0,1840,Pre-AC,375651,2178914,-82.76,"Jackson, MS",65.5,91.7,73,2597,Hot-Humid,Avg summer high 91.7°F | 73% humidity | 2597 cooling degree days/yr
+Mississippi,28.0,1850,Pre-AC,606526,2178914,-72.16,"Jackson, MS",65.5,91.7,73,2597,Hot-Humid,Avg summer high 91.7°F | 73% humidity | 2597 cooling degree days/yr
+Mississippi,28.0,1860,Pre-AC,791305,2178914,-63.68,"Jackson, MS",65.5,91.7,73,2597,Hot-Humid,Avg summer high 91.7°F | 73% humidity | 2597 cooling degree days/yr
+Mississippi,28.0,1870,Pre-AC,827922,2178914,-62.0,"Jackson, MS",65.5,91.7,73,2597,Hot-Humid,Avg summer high 91.7°F | 73% humidity | 2597 cooling degree days/yr
+Mississippi,28.0,1880,Pre-AC,1131597,2178914,-48.07,"Jackson, MS",65.5,91.7,73,2597,Hot-Humid,Avg summer high 91.7°F | 73% humidity | 2597 cooling degree days/yr
+Mississippi,28.0,1890,Pre-AC,1289600,2178914,-40.81,"Jackson, MS",65.5,91.7,73,2597,Hot-Humid,Avg summer high 91.7°F | 73% humidity | 2597 cooling degree days/yr
+Mississippi,28.0,1900,Pre-AC,1551270,2178914,-28.81,"Jackson, MS",65.5,91.7,73,2597,Hot-Humid,Avg summer high 91.7°F | 73% humidity | 2597 cooling degree days/yr
+Mississippi,28.0,1910,Pre-AC,1797114,2178914,-17.52,"Jackson, MS",65.5,91.7,73,2597,Hot-Humid,Avg summer high 91.7°F | 73% humidity | 2597 cooling degree days/yr
+Mississippi,28.0,1920,Pre-AC,1790618,2178914,-17.82,"Jackson, MS",65.5,91.7,73,2597,Hot-Humid,Avg summer high 91.7°F | 73% humidity | 2597 cooling degree days/yr
+Mississippi,28.0,1930,Pre-AC,2009821,2178914,-7.76,"Jackson, MS",65.5,91.7,73,2597,Hot-Humid,Avg summer high 91.7°F | 73% humidity | 2597 cooling degree days/yr
+Mississippi,28.0,1940,Pre-AC,2183796,2178914,0.22,"Jackson, MS",65.5,91.7,73,2597,Hot-Humid,Avg summer high 91.7°F | 73% humidity | 2597 cooling degree days/yr
+Mississippi,28.0,1950,Early AC,2178914,2178914,0.0,"Jackson, MS",65.5,91.7,73,2597,Hot-Humid,Avg summer high 91.7°F | 73% humidity | 2597 cooling degree days/yr
+Mississippi,28.0,1960,Early AC,2178141,2178914,-0.04,"Jackson, MS",65.5,91.7,73,2597,Hot-Humid,Avg summer high 91.7°F | 73% humidity | 2597 cooling degree days/yr
+Mississippi,28.0,1970,AC Era,2216912,2178914,1.74,"Jackson, MS",65.5,91.7,73,2597,Hot-Humid,Avg summer high 91.7°F | 73% humidity | 2597 cooling degree days/yr
+Mississippi,28.0,1980,AC Era,2520638,2178914,15.68,"Jackson, MS",65.5,91.7,73,2597,Hot-Humid,Avg summer high 91.7°F | 73% humidity | 2597 cooling degree days/yr
+Mississippi,28.0,1990,AC Era,2573216,2178914,18.1,"Jackson, MS",65.5,91.7,73,2597,Hot-Humid,Avg summer high 91.7°F | 73% humidity | 2597 cooling degree days/yr
+Mississippi,28.0,2000,AC Era,2844658,2178914,30.55,"Jackson, MS",65.5,91.7,73,2597,Hot-Humid,Avg summer high 91.7°F | 73% humidity | 2597 cooling degree days/yr
+Mississippi,28.0,2010,AC Era,2967297,2178914,36.18,"Jackson, MS",65.5,91.7,73,2597,Hot-Humid,Avg summer high 91.7°F | 73% humidity | 2597 cooling degree days/yr
+Mississippi,28.0,2020,AC Era,2961279,2178914,35.91,"Jackson, MS",65.5,91.7,73,2597,Hot-Humid,Avg summer high 91.7°F | 73% humidity | 2597 cooling degree days/yr
+North Carolina,37.0,1790,Pre-AC,395005,4061929,-90.28,"Raleigh, NC",60.0,88.5,68,1624,Hot-Humid,Avg summer high 88.5°F | 68% humidity | 1624 cooling degree days/yr
+North Carolina,37.0,1800,Pre-AC,478103,4061929,-88.23,"Raleigh, NC",60.0,88.5,68,1624,Hot-Humid,Avg summer high 88.5°F | 68% humidity | 1624 cooling degree days/yr
+North Carolina,37.0,1810,Pre-AC,555500,4061929,-86.32,"Raleigh, NC",60.0,88.5,68,1624,Hot-Humid,Avg summer high 88.5°F | 68% humidity | 1624 cooling degree days/yr
+North Carolina,37.0,1820,Pre-AC,638829,4061929,-84.27,"Raleigh, NC",60.0,88.5,68,1624,Hot-Humid,Avg summer high 88.5°F | 68% humidity | 1624 cooling degree days/yr
+North Carolina,37.0,1830,Pre-AC,737987,4061929,-81.83,"Raleigh, NC",60.0,88.5,68,1624,Hot-Humid,Avg summer high 88.5°F | 68% humidity | 1624 cooling degree days/yr
+North Carolina,37.0,1840,Pre-AC,753419,4061929,-81.45,"Raleigh, NC",60.0,88.5,68,1624,Hot-Humid,Avg summer high 88.5°F | 68% humidity | 1624 cooling degree days/yr
+North Carolina,37.0,1850,Pre-AC,869039,4061929,-78.61,"Raleigh, NC",60.0,88.5,68,1624,Hot-Humid,Avg summer high 88.5°F | 68% humidity | 1624 cooling degree days/yr
+North Carolina,37.0,1860,Pre-AC,992622,4061929,-75.56,"Raleigh, NC",60.0,88.5,68,1624,Hot-Humid,Avg summer high 88.5°F | 68% humidity | 1624 cooling degree days/yr
+North Carolina,37.0,1870,Pre-AC,1071361,4061929,-73.62,"Raleigh, NC",60.0,88.5,68,1624,Hot-Humid,Avg summer high 88.5°F | 68% humidity | 1624 cooling degree days/yr
+North Carolina,37.0,1880,Pre-AC,1399750,4061929,-65.54,"Raleigh, NC",60.0,88.5,68,1624,Hot-Humid,Avg summer high 88.5°F | 68% humidity | 1624 cooling degree days/yr
+North Carolina,37.0,1890,Pre-AC,1617947,4061929,-60.17,"Raleigh, NC",60.0,88.5,68,1624,Hot-Humid,Avg summer high 88.5°F | 68% humidity | 1624 cooling degree days/yr
+North Carolina,37.0,1900,Pre-AC,1893810,4061929,-53.38,"Raleigh, NC",60.0,88.5,68,1624,Hot-Humid,Avg summer high 88.5°F | 68% humidity | 1624 cooling degree days/yr
+North Carolina,37.0,1910,Pre-AC,2206287,4061929,-45.68,"Raleigh, NC",60.0,88.5,68,1624,Hot-Humid,Avg summer high 88.5°F | 68% humidity | 1624 cooling degree days/yr
+North Carolina,37.0,1920,Pre-AC,2559123,4061929,-37.0,"Raleigh, NC",60.0,88.5,68,1624,Hot-Humid,Avg summer high 88.5°F | 68% humidity | 1624 cooling degree days/yr
+North Carolina,37.0,1930,Pre-AC,3170276,4061929,-21.95,"Raleigh, NC",60.0,88.5,68,1624,Hot-Humid,Avg summer high 88.5°F | 68% humidity | 1624 cooling degree days/yr
+North Carolina,37.0,1940,Pre-AC,3571623,4061929,-12.07,"Raleigh, NC",60.0,88.5,68,1624,Hot-Humid,Avg summer high 88.5°F | 68% humidity | 1624 cooling degree days/yr
+North Carolina,37.0,1950,Early AC,4061929,4061929,0.0,"Raleigh, NC",60.0,88.5,68,1624,Hot-Humid,Avg summer high 88.5°F | 68% humidity | 1624 cooling degree days/yr
+North Carolina,37.0,1960,Early AC,4556155,4061929,12.17,"Raleigh, NC",60.0,88.5,68,1624,Hot-Humid,Avg summer high 88.5°F | 68% humidity | 1624 cooling degree days/yr
+North Carolina,37.0,1970,AC Era,5082059,4061929,25.11,"Raleigh, NC",60.0,88.5,68,1624,Hot-Humid,Avg summer high 88.5°F | 68% humidity | 1624 cooling degree days/yr
+North Carolina,37.0,1980,AC Era,5881766,4061929,44.8,"Raleigh, NC",60.0,88.5,68,1624,Hot-Humid,Avg summer high 88.5°F | 68% humidity | 1624 cooling degree days/yr
+North Carolina,37.0,1990,AC Era,6628637,4061929,63.19,"Raleigh, NC",60.0,88.5,68,1624,Hot-Humid,Avg summer high 88.5°F | 68% humidity | 1624 cooling degree days/yr
+North Carolina,37.0,2000,AC Era,8049313,4061929,98.16,"Raleigh, NC",60.0,88.5,68,1624,Hot-Humid,Avg summer high 88.5°F | 68% humidity | 1624 cooling degree days/yr
+North Carolina,37.0,2010,AC Era,9535483,4061929,134.75,"Raleigh, NC",60.0,88.5,68,1624,Hot-Humid,Avg summer high 88.5°F | 68% humidity | 1624 cooling degree days/yr
+North Carolina,37.0,2020,AC Era,10439388,4061929,157.01,"Raleigh, NC",60.0,88.5,68,1624,Hot-Humid,Avg summer high 88.5°F | 68% humidity | 1624 cooling degree days/yr
+South Carolina,45.0,1790,Pre-AC,249073,2117027,-88.23,"Columbia, SC",64.5,92.3,70,2418,Hot-Humid,Avg summer high 92.3°F | 70% humidity | 2418 cooling degree days/yr
+South Carolina,45.0,1800,Pre-AC,345591,2117027,-83.68,"Columbia, SC",64.5,92.3,70,2418,Hot-Humid,Avg summer high 92.3°F | 70% humidity | 2418 cooling degree days/yr
+South Carolina,45.0,1810,Pre-AC,415115,2117027,-80.39,"Columbia, SC",64.5,92.3,70,2418,Hot-Humid,Avg summer high 92.3°F | 70% humidity | 2418 cooling degree days/yr
+South Carolina,45.0,1820,Pre-AC,502741,2117027,-76.25,"Columbia, SC",64.5,92.3,70,2418,Hot-Humid,Avg summer high 92.3°F | 70% humidity | 2418 cooling degree days/yr
+South Carolina,45.0,1830,Pre-AC,581185,2117027,-72.55,"Columbia, SC",64.5,92.3,70,2418,Hot-Humid,Avg summer high 92.3°F | 70% humidity | 2418 cooling degree days/yr
+South Carolina,45.0,1840,Pre-AC,594398,2117027,-71.92,"Columbia, SC",64.5,92.3,70,2418,Hot-Humid,Avg summer high 92.3°F | 70% humidity | 2418 cooling degree days/yr
+South Carolina,45.0,1850,Pre-AC,668507,2117027,-68.42,"Columbia, SC",64.5,92.3,70,2418,Hot-Humid,Avg summer high 92.3°F | 70% humidity | 2418 cooling degree days/yr
+South Carolina,45.0,1860,Pre-AC,703708,2117027,-66.76,"Columbia, SC",64.5,92.3,70,2418,Hot-Humid,Avg summer high 92.3°F | 70% humidity | 2418 cooling degree days/yr
+South Carolina,45.0,1870,Pre-AC,705606,2117027,-66.67,"Columbia, SC",64.5,92.3,70,2418,Hot-Humid,Avg summer high 92.3°F | 70% humidity | 2418 cooling degree days/yr
+South Carolina,45.0,1880,Pre-AC,995577,2117027,-52.97,"Columbia, SC",64.5,92.3,70,2418,Hot-Humid,Avg summer high 92.3°F | 70% humidity | 2418 cooling degree days/yr
+South Carolina,45.0,1890,Pre-AC,1151149,2117027,-45.62,"Columbia, SC",64.5,92.3,70,2418,Hot-Humid,Avg summer high 92.3°F | 70% humidity | 2418 cooling degree days/yr
+South Carolina,45.0,1900,Pre-AC,1340316,2117027,-36.69,"Columbia, SC",64.5,92.3,70,2418,Hot-Humid,Avg summer high 92.3°F | 70% humidity | 2418 cooling degree days/yr
+South Carolina,45.0,1910,Pre-AC,1515400,2117027,-28.42,"Columbia, SC",64.5,92.3,70,2418,Hot-Humid,Avg summer high 92.3°F | 70% humidity | 2418 cooling degree days/yr
+South Carolina,45.0,1920,Pre-AC,1683724,2117027,-20.47,"Columbia, SC",64.5,92.3,70,2418,Hot-Humid,Avg summer high 92.3°F | 70% humidity | 2418 cooling degree days/yr
+South Carolina,45.0,1930,Pre-AC,1738765,2117027,-17.87,"Columbia, SC",64.5,92.3,70,2418,Hot-Humid,Avg summer high 92.3°F | 70% humidity | 2418 cooling degree days/yr
+South Carolina,45.0,1940,Pre-AC,1899804,2117027,-10.26,"Columbia, SC",64.5,92.3,70,2418,Hot-Humid,Avg summer high 92.3°F | 70% humidity | 2418 cooling degree days/yr
+South Carolina,45.0,1950,Early AC,2117027,2117027,0.0,"Columbia, SC",64.5,92.3,70,2418,Hot-Humid,Avg summer high 92.3°F | 70% humidity | 2418 cooling degree days/yr
+South Carolina,45.0,1960,Early AC,2382594,2117027,12.54,"Columbia, SC",64.5,92.3,70,2418,Hot-Humid,Avg summer high 92.3°F | 70% humidity | 2418 cooling degree days/yr
+South Carolina,45.0,1970,AC Era,2590516,2117027,22.37,"Columbia, SC",64.5,92.3,70,2418,Hot-Humid,Avg summer high 92.3°F | 70% humidity | 2418 cooling degree days/yr
+South Carolina,45.0,1980,AC Era,3121820,2117027,47.46,"Columbia, SC",64.5,92.3,70,2418,Hot-Humid,Avg summer high 92.3°F | 70% humidity | 2418 cooling degree days/yr
+South Carolina,45.0,1990,AC Era,3486703,2117027,64.7,"Columbia, SC",64.5,92.3,70,2418,Hot-Humid,Avg summer high 92.3°F | 70% humidity | 2418 cooling degree days/yr
+South Carolina,45.0,2000,AC Era,4012012,2117027,89.51,"Columbia, SC",64.5,92.3,70,2418,Hot-Humid,Avg summer high 92.3°F | 70% humidity | 2418 cooling degree days/yr
+South Carolina,45.0,2010,AC Era,4625364,2117027,118.48,"Columbia, SC",64.5,92.3,70,2418,Hot-Humid,Avg summer high 92.3°F | 70% humidity | 2418 cooling degree days/yr
+South Carolina,45.0,2020,AC Era,5118425,2117027,141.77,"Columbia, SC",64.5,92.3,70,2418,Hot-Humid,Avg summer high 92.3°F | 70% humidity | 2418 cooling degree days/yr
+Tennessee,47.0,1800,Pre-AC,105602,3291718,-96.79,"Nashville, TN",59.4,89.6,68,1652,Hot-Humid,Avg summer high 89.6°F | 68% humidity | 1652 cooling degree days/yr
+Tennessee,47.0,1810,Pre-AC,261727,3291718,-92.05,"Nashville, TN",59.4,89.6,68,1652,Hot-Humid,Avg summer high 89.6°F | 68% humidity | 1652 cooling degree days/yr
+Tennessee,47.0,1820,Pre-AC,422813,3291718,-87.16,"Nashville, TN",59.4,89.6,68,1652,Hot-Humid,Avg summer high 89.6°F | 68% humidity | 1652 cooling degree days/yr
+Tennessee,47.0,1830,Pre-AC,681904,3291718,-79.28,"Nashville, TN",59.4,89.6,68,1652,Hot-Humid,Avg summer high 89.6°F | 68% humidity | 1652 cooling degree days/yr
+Tennessee,47.0,1840,Pre-AC,829210,3291718,-74.81,"Nashville, TN",59.4,89.6,68,1652,Hot-Humid,Avg summer high 89.6°F | 68% humidity | 1652 cooling degree days/yr
+Tennessee,47.0,1850,Pre-AC,1002717,3291718,-69.54,"Nashville, TN",59.4,89.6,68,1652,Hot-Humid,Avg summer high 89.6°F | 68% humidity | 1652 cooling degree days/yr
+Tennessee,47.0,1860,Pre-AC,1109801,3291718,-66.29,"Nashville, TN",59.4,89.6,68,1652,Hot-Humid,Avg summer high 89.6°F | 68% humidity | 1652 cooling degree days/yr
+Tennessee,47.0,1870,Pre-AC,1258520,3291718,-61.77,"Nashville, TN",59.4,89.6,68,1652,Hot-Humid,Avg summer high 89.6°F | 68% humidity | 1652 cooling degree days/yr
+Tennessee,47.0,1880,Pre-AC,1542359,3291718,-53.14,"Nashville, TN",59.4,89.6,68,1652,Hot-Humid,Avg summer high 89.6°F | 68% humidity | 1652 cooling degree days/yr
+Tennessee,47.0,1890,Pre-AC,1767518,3291718,-46.3,"Nashville, TN",59.4,89.6,68,1652,Hot-Humid,Avg summer high 89.6°F | 68% humidity | 1652 cooling degree days/yr
+Tennessee,47.0,1900,Pre-AC,2020616,3291718,-38.62,"Nashville, TN",59.4,89.6,68,1652,Hot-Humid,Avg summer high 89.6°F | 68% humidity | 1652 cooling degree days/yr
+Tennessee,47.0,1910,Pre-AC,2184789,3291718,-33.63,"Nashville, TN",59.4,89.6,68,1652,Hot-Humid,Avg summer high 89.6°F | 68% humidity | 1652 cooling degree days/yr
+Tennessee,47.0,1920,Pre-AC,2337885,3291718,-28.98,"Nashville, TN",59.4,89.6,68,1652,Hot-Humid,Avg summer high 89.6°F | 68% humidity | 1652 cooling degree days/yr
+Tennessee,47.0,1930,Pre-AC,2616556,3291718,-20.51,"Nashville, TN",59.4,89.6,68,1652,Hot-Humid,Avg summer high 89.6°F | 68% humidity | 1652 cooling degree days/yr
+Tennessee,47.0,1940,Pre-AC,2915841,3291718,-11.42,"Nashville, TN",59.4,89.6,68,1652,Hot-Humid,Avg summer high 89.6°F | 68% humidity | 1652 cooling degree days/yr
+Tennessee,47.0,1950,Early AC,3291718,3291718,0.0,"Nashville, TN",59.4,89.6,68,1652,Hot-Humid,Avg summer high 89.6°F | 68% humidity | 1652 cooling degree days/yr
+Tennessee,47.0,1960,Early AC,3567089,3291718,8.37,"Nashville, TN",59.4,89.6,68,1652,Hot-Humid,Avg summer high 89.6°F | 68% humidity | 1652 cooling degree days/yr
+Tennessee,47.0,1970,AC Era,3923687,3291718,19.2,"Nashville, TN",59.4,89.6,68,1652,Hot-Humid,Avg summer high 89.6°F | 68% humidity | 1652 cooling degree days/yr
+Tennessee,47.0,1980,AC Era,4591120,3291718,39.47,"Nashville, TN",59.4,89.6,68,1652,Hot-Humid,Avg summer high 89.6°F | 68% humidity | 1652 cooling degree days/yr
+Tennessee,47.0,1990,AC Era,4877185,3291718,48.17,"Nashville, TN",59.4,89.6,68,1652,Hot-Humid,Avg summer high 89.6°F | 68% humidity | 1652 cooling degree days/yr
+Tennessee,47.0,2000,AC Era,5689283,3291718,72.84,"Nashville, TN",59.4,89.6,68,1652,Hot-Humid,Avg summer high 89.6°F | 68% humidity | 1652 cooling degree days/yr
+Tennessee,47.0,2010,AC Era,6346105,3291718,92.79,"Nashville, TN",59.4,89.6,68,1652,Hot-Humid,Avg summer high 89.6°F | 68% humidity | 1652 cooling degree days/yr
+Tennessee,47.0,2020,AC Era,6910840,3291718,109.95,"Nashville, TN",59.4,89.6,68,1652,Hot-Humid,Avg summer high 89.6°F | 68% humidity | 1652 cooling degree days/yr
